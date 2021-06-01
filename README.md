@@ -5,12 +5,12 @@
 ---
 
 ## Technologies used:
-*HTML5
-*CSS3(SCSS)
-*BEM methodology
-*Flexbox
-*Grid
-*Responsiveness and cross-browser
-*JS
-*SCSS
-*Figma
+* HTML5
+* CSS3(SCSS)
+* BEM methodology
+* Flexbox
+* Grid
+* Responsiveness and cross-browser
+* JS
+* SCSS
+* Figma
