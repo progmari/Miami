@@ -21,6 +21,14 @@
     }
   }
 
+  &__photo {
+    transition: transform 400ms;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+
   &__card {
     text-align: center;
   }
